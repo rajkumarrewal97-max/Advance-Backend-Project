@@ -1,4 +1,3 @@
-const { Amphora } = require("lucide-react");
 const mongoose = require("mongoose");
 
 const transactionSchema = new mongoose.Schema({
