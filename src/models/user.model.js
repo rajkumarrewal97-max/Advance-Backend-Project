@@ -1,4 +1,3 @@
-const { CaseLower } = require("lucide-react");
 const mongoose = require("mongoose");
 const bcrypt = require("bcryptjs");
 
